@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ARC ANGELS",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "exe0.aternos.me",
+    "port": 54228,
     "version": "1.20.1",
     "try-creative": false
   },
